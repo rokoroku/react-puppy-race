@@ -1,0 +1,20 @@
+{
+  "main.css": "/static/css/main.bcbe6a0b.chunk.css",
+  "main.js": "/static/js/main.b1355229.chunk.js",
+  "main.js.map": "/static/js/main.b1355229.chunk.js.map",
+  "static/js/1.e8ad2774.chunk.js": "/static/js/1.e8ad2774.chunk.js",
+  "static/js/1.e8ad2774.chunk.js.map": "/static/js/1.e8ad2774.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/dog_standing.gif": "/static/media/dog_standing.fb1c30b6.gif",
+  "static/media/dog_loss.gif": "/static/media/dog_loss.23cf503e.gif",
+  "static/media/cat_standing.gif": "/static/media/cat_standing.d0da33b9.gif",
+  "static/media/cat_running.gif": "/static/media/cat_running.07a918bd.gif",
+  "static/media/cat_loss.gif": "/static/media/cat_loss.d1bfbdf7.gif",
+  "static/media/react-logo.svg": "/static/media/react-logo.5d5d9eef.svg",
+  "static/media/dog_running.gif": "/static/media/dog_running.ba5cc2b0.gif",
+  "static/css/main.bcbe6a0b.chunk.css.map": "/static/css/main.bcbe6a0b.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.6bbcecae4ef5b83be81fc8eae8eab624.js": "/precache-manifest.6bbcecae4ef5b83be81fc8eae8eab624.js",
+  "service-worker.js": "/service-worker.js"
+}
